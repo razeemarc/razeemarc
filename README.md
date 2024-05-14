@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=razeemarc&show_icons=true&locale=en&layout=compact" alt="razeemarc" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razeemarc&" alt="razeemarc" /></p>
+<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razeemarc&" alt="razeemarc" /></span>
