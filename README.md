@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razeemarc&label=Profile%20views&color=0e75b6&style=flat" alt="razeemarc" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **React js,Flutter,Java,SQL**
 
@@ -21,8 +21,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/razeemarc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="razeemarc" /></a></p><br><br>
-<div>
-<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razeemarc&show_icons=true&locale=en&layout=compact" alt="razeemarc" /></span>
+<div align='center'>
+<span><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=razeemarc&show_icons=true&locale=en&layout=compact" alt="razeemarc" /></span>
 
-<span><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=razeemarc&" alt="razeemarc" /></span>
+<span><img  src="https://github-readme-streak-stats.herokuapp.com/?user=razeemarc&" alt="razeemarc" /></span>
 </div>
