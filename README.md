@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **React js,Flutter,Java,SQL**
+- 💬 Ask me about **React js,Flutter**
 
 - 📫 Contact me on **razeemarc@gmail.com**
 
