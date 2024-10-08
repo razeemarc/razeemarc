@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Razeema R C</h1>
-<h3 align="center">Passionate Software Developer Specializing in React.js and Flutter, Exploring Full-Stack Development</h3>
+<h3 align="center">Passionate Software Developer Specializing in React.js and SpringBoot, Exploring Full-Stack Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razeemarc&label=Profile%20views&color=0e75b6&style=flat" alt="razeemarc" /> </p>
 
