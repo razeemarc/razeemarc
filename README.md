@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razeemarc&label=Profile%20views&color=0e75b6&style=flat" alt="razeemarc" /> </p>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning ** Java FullStack Development**
 
-- 💬 Ask me about **React js,Flutter**
+- 💬 Ask me about **React js, SpringBoot**
 
 - 📫 Contact me on **razeemarc@gmail.com**
 
