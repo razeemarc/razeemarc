@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java FullStack Development**
 
-- 💬 Ask me about **React js, SpringBoot**
+- 💬 Ask me about **Next js, SpringBoot**
 
 - 📫 Contact me on **razeemarc@gmail.com**
 
