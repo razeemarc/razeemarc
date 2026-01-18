@@ -19,68 +19,87 @@
 
 - 🌱 Building **scalable backend & full-stack applications**
 - ⚙️ Strong focus on **Node.js, REST APIs, Databases**
-- 🧠 Enjoy **clean architecture, performance optimization, and problem-solving**
+- 🧠 Enjoy **clean architecture, performance optimization & problem-solving**
 - 💬 Ask me about **Backend Development, APIs, Databases, System Design**
 - 📫 Reach me at **razeemarc@gmail.com**
+
+---
+
+## 🌐 Portfolio & Coding Profiles
+
+- 🌍 Portfolio: **http://razeema.vercel.app/**
+- 💻 LeetCode: **https://leetcode.com/u/razeemarc/**
+- 🧠 HackerRank: **https://www.hackerrank.com/razeemarc**
 
 ---
 
 ## 🔗 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/razeemarc" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="38" style="margin-right:15px"/>
+  <a href="https://linkedin.com/in/razeemarc">
+    <img src="https://img.shields.io/badge/LinkedIn-282c34?logo=linkedin&logoColor=0A66C2" height="25">
   </a>
-  <a href="https://instagram.com/razeema_r_c" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="38" style="margin-right:15px"/>
+  <a href="https://instagram.com/razeema_r_c">
+    <img src="https://img.shields.io/badge/Instagram-282c34?logo=instagram" height="25">
   </a>
-  <a href="https://www.hackerrank.com/razeemarc" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="38" style="margin-right:15px"/>
-  </a>
-  <a href="https://leetcode.com/u/razeemarc/](https://leetcode.com/u/Razeema" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="38"/>
+  <a href="mailto:razeemarc@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-282c34?logo=gmail" height="25">
   </a>
 </p>
 
 ---
 
-## 🌐 Portfolio
-👉 **http://razeema.vercel.app/**
+# 🧠 Skills
 
 ---
 
-## 🧩 Tech Stack
+### 💻 Programming Languages
 
-### 🎨 Frontend
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36" style="margin:10px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" style="margin:10px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" style="margin:10px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" style="margin:10px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="36" style="margin:10px"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="36" style="margin:10px"/>
-  <img src="https://zustand-demo.pmnd.rs/favicon.ico" width="36" style="margin:10px"/>
+  <img src="https://img.shields.io/badge/JavaScript-282c34?logo=javascript" height="25">
+  <img src="https://img.shields.io/badge/TypeScript-282c34?logo=typescript&logoColor=367fcf" height="25">
+  <img src="https://img.shields.io/badge/Python-282c34?logo=python" height="25">
 </p>
 
 ---
 
-### 🛠 Backend
+### 🎨 Front-end
+
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" style="margin:10px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="36" style="margin:10px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="36" style="margin:10px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="36" style="margin:10px"/>
-  <img src="https://img.shields.io/badge/TypeORM-262626?style=for-the-badge" height="28" style="margin:10px"/>
+  <img src="https://img.shields.io/badge/HTML-282c34?logo=html5" height="25">
+  <img src="https://img.shields.io/badge/CSS-282c34?logo=css3&logoColor=0396de" height="25">
+  <img src="https://img.shields.io/badge/React-282c34?logo=react" height="25">
+  <img src="https://img.shields.io/badge/Next.js-282c34?logo=next.js" height="25">
+  <img src="https://img.shields.io/badge/Zustand-282c34?logo=zustand" height="25">
+  <img src="https://img.shields.io/badge/Redux-282c34?logo=redux&logoColor=764abc" height="25">
+  <br/>
+  <img src="https://img.shields.io/badge/TailwindCSS-282c34?logo=tailwindcss" height="25">
+  <img src="https://img.shields.io/badge/Bootstrap-282c34?logo=bootstrap" height="25">
+  <img src="https://img.shields.io/badge/Ant%20Design-282c34?logo=antdesign&logoColor=0170fe" height="25">
+</p>
+
+---
+
+### 🛠 Back-end
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-282c34?logo=node.js" height="25">
+  <img src="https://img.shields.io/badge/Express.js-282c34?logo=express" height="25">
+  <img src="https://img.shields.io/badge/REST%20API-282c34?logo=postman" height="25">
+  <img src="https://img.shields.io/badge/Prisma-282c34?logo=prisma" height="25">
+  <img src="https://img.shields.io/badge/TypeORM-282c34" height="25">
+  <img src="https://img.shields.io/badge/Spring%20Boot-282c34?logo=springboot" height="25">
 </p>
 
 ---
 
 ### 🗄 Databases
+
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" style="margin:10px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" style="margin:10px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" style="margin:10px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="36" style="margin:10px"/>
+  <img src="https://img.shields.io/badge/MongoDB-282c34?logo=mongodb" height="25">
+  <img src="https://img.shields.io/badge/PostgreSQL-282c34?logo=postgresql" height="25">
+  <img src="https://img.shields.io/badge/MySQL-282c34?logo=mysql" height="25">
+  <img src="https://img.shields.io/badge/Redis-282c34?logo=redis" height="25">
 </p>
 
 ---
@@ -88,41 +107,47 @@
 ### ☁️ Cloud & DevOps
 
 <p>
-  <!-- AWS (badge for guaranteed visibility) -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" style="margin:8px"/>
-
-  <!-- DigitalOcean -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" width="36" style="margin:10px"/>
-
-  <!-- Docker -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" style="margin:10px"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/DigitalOcean-282c34?logo=digitalocean" height="25">
+  <img src="https://img.shields.io/badge/Docker-282c34?logo=docker" height="25">
+  <img src="https://img.shields.io/badge/Nginx-282c34?logo=nginx" height="25">
 </p>
-
 
 ---
 
 ### 🧪 Testing & Tools
+
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="36" style="margin:10px"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" style="margin:10px"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" style="margin:10px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="36" style="margin:10px"/>
+  <img src="https://img.shields.io/badge/Jest-282c34?logo=jest" height="25">
+  <img src="https://img.shields.io/badge/Postman-282c34?logo=postman" height="25">
+  <img src="https://img.shields.io/badge/Git-282c34?logo=git" height="25">
+  <img src="https://img.shields.io/badge/GitHub-282c34?logo=github" height="25">
+</p>
+
+---
+
+## ☕ Support
+
+<p>
+  <a href="https://www.buymeacoffee.com/razeemarc">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-282c34?logo=buymeacoffee" height="30">
+  </a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=razeemarc&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=razeemarc&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razeemarc&layout=compact&theme=tokyonight&cache_seconds=1800" />
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=razeemarc&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=razeemarc&theme=tokyonight&cache_seconds=1800" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razeemarc&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
