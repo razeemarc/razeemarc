@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Razeema R C</h1>
 
 <p align="center">
-  <b>Custom Software Engineer</b> • Backend-Focused Full-Stack Developer  
+  <b> Software Engineer</b> • Backend-Focused Full-Stack Developer  
   <br/>
   Node.js • TypeScript • Next.js
 </p>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=razeemarc&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=razeemarc&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -28,15 +28,15 @@
 
 ## 🔗 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/razeemarc" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28" width="38"/>
+<p>
+  <a href="https://linkedin.com/in/razeemarc">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="38"/>
   </a>
-  <a href="https://instagram.com/razeema_r_c" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="28" width="38"/>
+  <a href="https://instagram.com/razeema_r_c">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="38"/>
   </a>
-  <a href="https://www.hackerrank.com/razeemarc" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="28" width="38"/>
+  <a href="https://www.hackerrank.com/razeemarc">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="38"/>
   </a>
 </p>
 
@@ -46,11 +46,16 @@
 
 ### 🎨 Frontend
 <p>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="36"/>
+</p>
+
+<p>
+  <img src="https://zustand-demo.pmnd.rs/favicon.ico" width="36" title="Zustand"/>
 </p>
 
 ---
@@ -60,8 +65,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typeorm/typeorm-original.svg" width="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="36"/>
+</p>
+
+<p>
+  <!-- TypeORM has no official icon: using text badge to ensure visibility -->
+  <img src="https://img.shields.io/badge/TypeORM-262626?style=for-the-badge&logo=data:image/svg+xml" height="28"/>
 </p>
 
 ---
@@ -86,8 +95,9 @@
 
 ---
 
-### 🧰 Tools & Others
+### 🧪 Testing & Tools
 <p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="36"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="36"/>
@@ -108,11 +118,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=razeemarc&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razeemarc&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=razeemarc&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=razeemarc&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
