@@ -86,11 +86,18 @@
 ---
 
 ### ☁️ Cloud & DevOps
+
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="36" style="margin:10px"/>
+  <!-- AWS (badge for guaranteed visibility) -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" style="margin:8px"/>
+
+  <!-- DigitalOcean -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" width="36" style="margin:10px"/>
+
+  <!-- Docker -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" style="margin:10px"/>
 </p>
+
 
 ---
 
