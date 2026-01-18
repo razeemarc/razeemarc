@@ -56,11 +56,13 @@
 ### 💻 Programming Languages
 
 <p>
-    <img src="https://img.shields.io/badge/Java-282c34?logo=java" height="25">
+  <img src="https://img.shields.io/badge/Java-282c34?logo=openjdk&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/JavaScript-282c34?logo=javascript" height="25">
   <img src="https://img.shields.io/badge/TypeScript-282c34?logo=typescript&logoColor=367fcf" height="25">
   <img src="https://img.shields.io/badge/Python-282c34?logo=python" height="25">
+  <img src="https://img.shields.io/badge/SQL-282c34?logo=databricks&logoColor=white" height="25">
 </p>
+
 
 ---
 
